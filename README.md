@@ -1,4 +1,4 @@
-# FunMovies Catalog
+# FunMovies
 
 Este é um simples aplicativo de catálogo de filmes em Java, desenvolvido para ajudar na gestão de filmes. Ele permite que você registre filmes, remova filmes e liste os filmes cadastrados.
 
