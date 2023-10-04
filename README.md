@@ -23,8 +23,7 @@ Para executar o aplicativo, você precisa ter o Java instalado no seu sistema. C
   javac Main.java
 
 4. Execute o aplicativo:
-
-  
+  ``bash
   java Main
 
 <h1>Siga as instruções no console para usar o aplicativo:</h1>
@@ -42,4 +41,5 @@ Interface de linha de comando simples para interação do usuário.
 <h1>Licença</h1>
 Este projeto está licenciado sob a Licença MIT.
 
+<h1>Autora</h1>
 Desenvolvido por [Giovana Manuquian]
