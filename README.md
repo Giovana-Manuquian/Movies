@@ -21,15 +21,15 @@ Para executar o aplicativo, você precisa ter o Java instalado no seu sistema. C
   java Main
 
 <h1>Siga as instruções no console para usar o aplicativo:</h1>
-Opção 1: Registrar um filme
-Opção 2: Remover um filme
-Opção 3: Listar filmes
+Opção 1: Registrar um filme</br>
+Opção 2: Remover um filme</br>
+Opção 3: Listar filmes</br>
 Opção 4: Sair do programa
 
 <h1>Funcionalidades</h1>
-Registro de filmes com informações como título, diretor, gênero, ano de lançamento e duração.
-Remoção de filmes com base no título.
-Listagem de filmes cadastrados.
+Registro de filmes com informações como título, diretor, gênero, ano de lançamento e duração.</br>
+Remoção de filmes com base no título.</br>
+Listagem de filmes cadastrados.</br>
 Interface de linha de comando simples para interação do usuário.
 
 <h1>Licença</h1>
