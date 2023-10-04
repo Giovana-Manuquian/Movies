@@ -9,7 +9,7 @@ Para executar o aplicativo, você precisa ter o Java instalado no seu sistema. C
 ## Como usar
 
 1. Clone o repositório para o seu sistema local usando o comando:
-  git clone https://github.com/seu-usuario/funmovies-catalog.git
+  git clone https://github.com/Giovana-Manuquian
 
 2. Navegue até o diretório do projeto:
   cd funmovies-catalog
